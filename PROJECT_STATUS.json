@@ -1,0 +1,11 @@
+{
+  "schema_id": "hawkar.project-status.v1",
+  "project": "XiaoZhi ESP32 working copy",
+  "repository": "https://github.com/Hawkar-usls/xiaozhi-esp32",
+  "portfolio_class": "upstream_derived_working_copy",
+  "upstream": "https://github.com/78/xiaozhi-esp32",
+  "last_reviewed": "2026-08-09",
+  "base_authorship_claimed_by_hawkar": false,
+  "flagship_hawkar_research": false,
+  "evaluation_rule": "Evaluate Hawkar-specific work only from an explicit diff against the corresponding upstream revision."
+}
